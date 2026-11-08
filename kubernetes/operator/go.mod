@@ -5,10 +5,10 @@ go 1.26.5
 require (
 	github.com/stretchr/testify v1.11.1
 	github.com/traefik/traefik/v3 v3.7.10
-	k8s.io/api v0.36.2
-	k8s.io/apimachinery v0.36.2
-	k8s.io/client-go v0.36.2
-	k8s.io/code-generator v0.36.2
+	k8s.io/api v0.36.6
+	k8s.io/apimachinery v0.36.6
+	k8s.io/client-go v0.36.6
+	k8s.io/code-generator v0.36.6
 	sigs.k8s.io/controller-runtime v0.24.1
 )
 
